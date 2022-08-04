@@ -1,0 +1,24 @@
+{
+  "name": "typing-trainer",
+  "version": "1.0.0",
+  "description": "Hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomReece1/Typing-Trainer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomReece1/Typing-Trainer/issues"
+  },
+  "homepage": "https://github.com/TomReece1/Typing-Trainer#readme",
+  "devDependencies": {
+    "husky": "^8.0.1",
+    "jest": "^28.1.3"
+  }
+}
